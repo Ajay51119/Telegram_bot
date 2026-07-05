@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Python Backend Developer",
+    "company": "Nimbus Cloud Systems",
+    "location": "Hyderabad, India",
+    "salary": "₹8–14 LPA",
+    "skills": ["python", "django", "fastapi", "postgresql", "rest api"],
+    "experience": "1-3 years",
+    "link": "https://example.com/jobs/nimbus-python-backend"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Vertex Analytics",
+    "location": "Bengaluru, India",
+    "salary": "₹12–20 LPA",
+    "skills": ["python", "tensorflow", "pytorch", "machine learning", "mlops"],
+    "experience": "2-4 years",
+    "link": "https://example.com/jobs/vertex-ml-engineer"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Helios Insights",
+    "location": "Remote",
+    "salary": "₹10–18 LPA",
+    "skills": ["python", "sql", "pandas", "machine learning", "data science"],
+    "experience": "1-3 years",
+    "link": "https://example.com/jobs/helios-data-scientist"
+  },
+  {
+    "title": "Frontend Developer (React)",
+    "company": "Pixel Forge Studios",
+    "location": "Pune, India",
+    "salary": "₹6–11 LPA",
+    "skills": ["javascript", "react", "css", "typescript"],
+    "experience": "1-3 years",
+    "link": "https://example.com/jobs/pixelforge-frontend"
+  },
+  {
+    "title": "Full Stack Developer",
+    "company": "Northwind Tech",
+    "location": "Hyderabad, India",
+    "salary": "₹9–16 LPA",
+    "skills": ["node.js", "react", "mongodb", "javascript", "rest api"],
+    "experience": "2-4 years",
+    "link": "https://example.com/jobs/northwind-fullstack"
+  },
+  {
+    "title": "Junior Software Engineer",
+    "company": "BrightPath Labs",
+    "location": "Remote",
+    "salary": "₹4–7 LPA",
+    "skills": ["python", "java", "git", "data structures"],
+    "experience": "0-1 years",
+    "link": "https://example.com/jobs/brightpath-junior-sde"
+  },
+  {
+    "title": "DevOps Engineer",
+    "company": "Skyline Cloud",
+    "location": "Gurugram, India",
+    "salary": "₹11–18 LPA",
+    "skills": ["aws", "docker", "kubernetes", "terraform", "ci/cd"],
+    "experience": "2-5 years",
+    "link": "https://example.com/jobs/skyline-devops"
+  },
+  {
+    "title": "AI/LLM Application Engineer",
+    "company": "Cortex Labs",
+    "location": "Remote",
+    "salary": "₹14–22 LPA",
+    "skills": ["python", "langchain", "langgraph", "llm", "rag", "fastapi"],
+    "experience": "1-3 years",
+    "link": "https://example.com/jobs/cortex-llm-engineer"
+  },
+  {
+    "title": "QA Automation Engineer",
+    "company": "TestForge Inc.",
+    "location": "Chennai, India",
+    "salary": "₹6–10 LPA",
+    "skills": ["selenium", "python", "pytest", "automation testing"],
+    "experience": "1-3 years",
+    "link": "https://example.com/jobs/testforge-qa-automation"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "Meridian Retail Group",
+    "location": "Hyderabad, India",
+    "salary": "₹5–9 LPA",
+    "skills": ["sql", "excel", "power bi", "python", "data analysis"],
+    "experience": "0-2 years",
+    "link": "https://example.com/jobs/meridian-data-analyst"
+  },
+  {
+    "title": "Backend Engineer (Java)",
+    "company": "Ironclad Systems",
+    "location": "Bengaluru, India",
+    "salary": "₹10–17 LPA",
+    "skills": ["java", "spring boot", "microservices", "sql"],
+    "experience": "2-4 years",
+    "link": "https://example.com/jobs/ironclad-java-backend"
+  },
+  {
+    "title": "Product Analyst Intern",
+    "company": "Lumen Fintech",
+    "location": "Remote",
+    "salary": "₹20,000–30,000/month",
+    "skills": ["sql", "excel", "analytics", "communication"],
+    "experience": "0 years (Internship)",
+    "link": "https://example.com/jobs/lumen-product-analyst-intern"
+  }
+]
